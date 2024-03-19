@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ClockView">
+        <!--Ring color-->
+        <attr name="clock_ring_color" format="color"/>
+        <!--Hour color-->
+        <attr name="clock_hour_color" format="color"/>
+        <!--Minute color-->
+        <attr name="clock_min_color" format="color"/>
+        <!--Second color-->
+        <attr name="clock_second_color" format="color"/>
+        <!--Dots color-->
+        <attr name="clock_dots_color" format="color"/>
+        <!--Text color-->
+        <attr name="clock_text_color" format="color"/>
+        <!--Background color-->
+        <attr name="clock_bg_color" format="color"/>
+    </declare-styleable>
+</resources>
